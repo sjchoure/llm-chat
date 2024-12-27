@@ -1,0 +1,17 @@
+streamlit
+python-dotenv
+PyPDF2
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+transformers
+torch
+InstructorEmbedding
+accelerate
+bitsandbytes
+scipy
+numpy>=1.19.5
+tqdm
+scikit-learn 
